@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "کفش نایک",
+    "model": "ایر مکس ویوا",
+    "color": "مشکی",
+    "material": "چرم مصنوعی و پارچه مش",
+    "price": "370,000",
+    "size": "42",
+    "picture": "images/air-max-viva.jpg"
+  },
+  {
+    "id": "2",
+    "title": "کفش نایک",
+    "model": "ایر زوم سوپرهیت",
+    "color": "مشکی",
+    "material": "پارچه مش",
+    "price": "530,000",
+    "size": "40",
+    "picture": "images/air-zoom-superrep-hiit.jpg"
+  },
+  {
+    "id": "3",
+    "title": "کفش نایک",
+    "model": "مرکریال سوپرفلای",
+    "color": "مشکی",
+    "material": "چرم مصنوعی و پارچه مش",
+    "price": "720,000",
+    "size": "43",
+    "picture": "images/mercurial-superfly.jpg"
+  },
+  {
+    "id": "4",
+    "title": "کفش نایک",
+    "model": "ریکت ویپر",
+    "color": "مشکی",
+    "material": "رزین و پارچه مش",
+    "price": "420,000",
+    "size": "39",
+    "picture": "images/react-vapor.jpg"
+  },
+  {
+    "id": "5",
+    "title": "کفش نایک",
+    "model": "ریکت اینفینیتی",
+    "color": "مشکی",
+    "material": "چرم مصنوعی و الیاف",
+    "price": "690,000",
+    "size": "41",
+    "picture": "images/react-infinity.jpg"
+  },
+  {
+    "id": "6",
+    "title": "کفش نایک",
+    "model": "رومالیوس 4",
+    "color": "مشکی",
+    "material": "رزین و الیاف",
+    "price": "940,000",
+    "size": "44",
+    "picture": "images/romaleos-4.jpg"
+  }
+]
